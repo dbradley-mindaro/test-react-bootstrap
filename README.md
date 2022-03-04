@@ -1,9 +1,9 @@
 # test-react-bootstrap
 
 * Fork from this repository to create your own
-* Create a new ReactJS project using create-react-app
-* Use react-bootstrap for styling
-* Use react-router-dom to create a single page app
+* Create a new ReactJS project using create-react-app (version: "^17.0.2")
+* Use react-bootstrap for styling (version: "^2.0.0")
+* Use react-router-dom to create a single page app (version: "^6.1.1")
 * Create pages for Home, About, Contact Us
 * Create routes for each of the three pages
 * Create a common navigation bar component placed at the top of all the pages that contains links to all three pages
