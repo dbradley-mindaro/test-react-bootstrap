@@ -104,26 +104,3 @@ function Contact() {
 }
 
 export default Contact;
-
-{
-  /* <div className="container-fluid black">
-  <div className="container">
-    <div className="row section2">
-        <div className="col-md-6 col-sm-12 col-xs-12 s2box1">
-          <img className="forming" src="images/img02.jpg" />
-          <div className="frame"></div>
-        </div>
-        <div className="col-md-6 col-sm-12 col-xs-12 s2box2">
-          <form>
-            <input type="text" className="form-control" placeholder="YOUR NAME" />
-            <br>
-            <input type="email" className="form-control" placeholder="EMAIL" /> 
-            <br>
-            <input type="number" className="form-control" placeholder="message">
-            <input type="submit" className="btn-s2" value="JOIN OUR COMMUNITY">  
-          </form>
-        </div>
-    </div>
-  </div>
-</div> */
-}
