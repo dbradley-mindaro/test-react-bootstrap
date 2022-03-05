@@ -1,0 +1,105 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* .jumbotron {
+  color: white;
+  background-image: url("https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+} */
+
+/* .navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  padding: 22px 0px;
+  margin: 33px;
+} */
+
+/* .navbar img{
+  width: 350px;
+} */
+
+/* .navbar p{
+     font-size: 10px;
+     letter-spacing: 0.5px;
+}
+
+.navbar ul{
+  display: flex;
+  list-style: none;
+  padding: 0 44px;
+}
+
+.navbar ul li{
+  padding: 0 15px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+ 
+} */
+
+.navbar ul li:hover {
+  color: grey;
+}
+
+.home img {
+  width: 100%;
+  height: 300px;
+}
+
+.home h4 {
+  font-size: 32px;
+  margin: 24px;
+}
+
+.home p {
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin: 24px;
+}
+
+.home-img img {
+  width: 100%;
+  height: 600px;
+}
+
+.address {
+  margin: 84px 0px;
+  background-color: #f5f5f5;
+}
+
+.address-info {
+  padding: 78px 0px;
+  letter-spacing: 1px;
+  font-size: 20px;
+}
+
+.address-info p {
+  margin: 4px 0px;
+  font-family: Georgia, 'Times New Roman';
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 84px;
+}
+
+@media screen and (max-width: 750px) {
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 10px;
+  }
+  .navbar ul {
+    margin-top: 22px;
+  }
+}
