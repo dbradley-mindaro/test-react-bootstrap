@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "Lorem ipsum dolor sit amet",
+    "answer": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+  },
+  {
+    "id": 2,
+    "question": "Sed ut perspiciatis unde omnis",
+    "answer": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
+  },
+  {
+    "id": 3,
+    "question": "But I must explain to you how",
+    "answer": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
+  },
+  {
+    "id": 4,
+    "question": "At vero eos et accusamus et iusto odio",
+    "answer": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia."
+  }
+]
