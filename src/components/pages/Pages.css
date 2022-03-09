@@ -1,0 +1,73 @@
+.jumbotron::before {
+  content: "";
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+  width: 100%;
+  height: 100%;
+  background-size: 100% 100% !important;
+  position: absolute;
+  z-index: -1;
+}
+.aboutBackground {
+  position: relative;
+}
+
+.aboutBackground::before {
+  background: url("../../assets/Images/cyber-security.jpg");
+}
+
+.homeBackgroud {
+  position: relative;
+}
+.homeBackgroud::before {
+  background: url("../../assets/Images/background.jpg");
+}
+
+.contactBackground {
+  position: relative;
+}
+.contactBackground::before {
+  background: url("../../assets/Images/contact.jpg");
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+}
+
+.font-20-white {
+  font-size: 20px;
+  color: whitesmoke;
+  font-weight: 400;
+  letter-spacing: 1.12px;
+  background: none;
+}
+.font-nav {
+  font-size: 30px;
+  color: cornflowerblue;
+  font-weight: 700;
+}
+.navbar-expand a.brand-nav {
+  font-size: 40px;
+}
+.navbar-expand a.brand-nav:hover {
+  font-size: 40px;
+}
+.font-20-white .text-row {
+  padding: 12px;
+  margin: 10px 5px 5px 10px;
+}
+.margin .h1 {
+  margin-top: 100px;
+}
+.modal-body {
+  word-wrap: break-word;
+}
+.widthOverride {
+  width: 240px !important;
+}
